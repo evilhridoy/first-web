@@ -1,0 +1,93 @@
+
+body{
+	background: #F0F2F5;
+}
+
+.MainBox{
+	width: 400px;
+	background: white;
+	padding: 50px;
+	margin: auto;
+	margin-top: 100px;
+	text-align: center;
+	border-radius: 10px;
+	box-shadow: 0px 0px 20px -6px black;
+}
+
+.MainBox input{
+	display: block;
+	background: #E8F0FE;
+	padding: 20px;
+	margin-bottom: 20px;
+	width: 89%;
+	border: none;
+	font-size: 16px;
+	outline: none;
+	box-shadow: 0px 0px 10px -5px black;
+	border-radius: 5px;
+}
+
+.facebook{
+	background: #166FE5 !important;
+	width: 70% !important;
+	color: white;
+	font-family: arial black;
+	font-size: 18px;
+	margin-left: 53px;
+	margin-top: -20px !important;
+	padding: 15px !important;
+	letter-spacing: 0.1px;
+}
+
+.span1{
+	margin-left: -300px;
+	font-family: SutonnyMJ;
+	font-size: 18px;
+	letter-spacing: 0.1px;
+}
+
+.span2{
+	margin-left: -320px;
+	font-family: SutonnyMJ;
+	font-size: 18px;
+}
+
+.span3{
+	color: #1877F2;
+	font-family: SutonnyMJ;
+	font-size: 20px;
+	text-decoration: none;
+}
+.Loginbox{
+	background: #166FE5 !important;
+	width: 100% !important;
+	color: white;
+	font-family: Arial;
+	font-size: 23px !important;
+	padding: 15px !important;
+	letter-spacing: 1px;
+}
+
+.newaccount{
+	background: #36A420 !important;
+	width: 50% !important;
+	color: white;
+	font-family: SutonnyMJ;
+	font-size: 24px !important;
+	margin-left: 97px;
+	margin-top: 15px;
+	padding: 15px !important;
+}
+.newaccount:hover{
+	cursor: pointer;
+}
+
+.Loginbox:hover{
+	cursor: pointer;	
+}
+
+
+
+
+
+
